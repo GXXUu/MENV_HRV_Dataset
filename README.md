@@ -1,7 +1,9 @@
 # MENV_HRV_Dataset
 # Dataset Coming Soon
 
-We are preparing to release **[MENV_HRV_Dataset]**, a large-scale dataset collected for research on **[robust heart rate variability (HRV) estimation using mmWave radar sensing]**.
+We are preparing to release [MENV_HRV_Dataset], a large-scale dataset of synchronized mmWave radar signals and ECG-derived heartbeat timestamps.  
+The dataset is designed to facilitate research on robust heart rate variability (HRV) estimation and related physiological sensing tasks.  
+Details and documentation will be provided upon official release.
 
 # Overview
 
