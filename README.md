@@ -5,8 +5,10 @@ We are preparing to release **[MENV_HRV_Dataset]**, a large-scale dataset collec
 
 # Overview
 
-- **Content**: Multi-subject, multi-environment radar physiological signals
-- **Applications**: [e.g., physiological monitoring, cross-domain generalization, robust signal processing]
+- **Content**: Synchronized radar signals and heartbeat timestamps derived from ECG.  
+  Due to privacy protection, only the ground-truth heartbeat timings are provided, not the raw ECG waveforms.
+
+- **Applications**: [e.g., physiological monitoring, cross-domain generalization]
 
 # Availability
 
@@ -21,3 +23,4 @@ Currently, the dataset is **under embargo** due to the double-blind review proce
 # License
 
  Details will be provided upon release.
+
