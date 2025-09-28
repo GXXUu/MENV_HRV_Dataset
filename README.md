@@ -1,7 +1,7 @@
 # MENV_HRV_Dataset
 # Dataset Coming Soon
 
-We are preparing to release [MENV_HRV_Dataset], a large-scale dataset of synchronized mmWave radar signals and ECG-derived heartbeat timestamps.  
+We are preparing to release **MENV_HRV_Dataset**, a large-scale dataset of synchronized mmWave radar signals and ECG-derived heartbeat timestamps.  
 The dataset is designed to facilitate research on robust heart rate variability (HRV) estimation and related physiological sensing tasks.  
 Details and documentation will be provided upon official release.
 
@@ -10,7 +10,7 @@ Details and documentation will be provided upon official release.
 - **Content**: Synchronized radar signals and heartbeat timestamps derived from ECG.  
   Due to privacy protection, only the ground-truth heartbeat timings are provided, not the raw ECG waveforms.
 
-- **Applications**: [e.g., physiological monitoring, cross-domain generalization]
+- **Applications**: physiological monitoring, cross-domain generalization
 
 # Availability
 
